@@ -18,6 +18,13 @@
 **AI Intern @ Brand Idea (Digital Marketing Agency)**
 Evaluated and compared OCR models for accuracy, speed, and output quality; worked with Hugging Face for accessing pretrained models; completed OpenAI Prompt Engineering training.
 
+## 📌 Featured Projects
+
+- **[compiler-semantic-analyzer](https://github.com/masumeh14/compiler-semantic-analyzer)** — A compiler front-end in Python: lexical, syntax, and semantic analysis for a C-like language
+- **[ML](https://github.com/masumeh14/ML)** — Breast cancer classification using K-Nearest Neighbors (KNN) with Scikit-Learn
+- **[application](https://github.com/masumeh14/application)** — A Kivy-based multi-screen app for student profiles with real-time chat and SQLite storage
+- **[Cryptocurrency](https://github.com/masumeh14/Cryptocurrency)** — A cryptocurrency price viewer and converter using Python, Tkinter, and the CoinGecko API
+
 ## 📫 Reach me
 
 📧 masoumehaghamohammadi83@gmail.com
